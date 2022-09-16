@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- :crab: I like writing code, typically in Rust these days.
+- :clipboard: I write infrequently at [samtay.github.io](https://samtay.github.io).
+- :gem: I write more frequently in [obsidian](https://samtay.netlify.app/), but not for public consumption.
+
 <!--
 **samtay/samtay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
